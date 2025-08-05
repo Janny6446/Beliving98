@@ -1,0 +1,21 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_69B57DCC_75A4_B29F_41C5_3C686F26ECE8.label = 3
+panorama_5D972996_7DBC_928B_41BE_1AC2EDDEB9B6.label = 4
+panorama_6E80CE74_736C_918F_41AE_C3F0E55B13EF.label = 9821
+panorama_5C1833C1_7CDC_7689_41D7_3FB313F98385.label = 9831
+panorama_6FDD5E5E_73DC_B1BB_41C9_D6E435255B53.label = Coffe1
+panorama_66F27F49_736C_AF99_41A2_1E6A7B155899.label = DJI_20250730142738_0006_D
+panorama_6D93DD3F_73E5_B3F9_41CB_1E72E92D842C.label = footh1
+panorama_6D8B2997_73A3_9289_41D8_826C1CC18931.label = keypickup
+panorama_6FC2C343_73E4_9789_41D0_32F6E495D4A0.label = self-checkin area
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Beliving98
