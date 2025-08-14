@@ -1,11 +1,33 @@
 #: locale=en
 
+## Action
+
+### URL
+LinkBehaviour_F388AD9D_BA1E_98AC_41D4_6D7FABD9FB1A.source = https://onceinmemory.360diamondoncrown.com/once/d551d6b2-bd9f-4edd-a29a-287f17f0b942
+LinkBehaviour_E880031D_BA1A_A9AC_41E2_1EEDD504691B.source = https://onceinmemory.360diamondoncrown.com/once/d551d6b2-bd9f-4edd-a29a-287f17f0b942
+LinkBehaviour_E87E4249_BA1E_AB94_41DE_72776D5DFE03.source = https://onceinmemory.360diamondoncrown.com/once/d551d6b2-bd9f-4edd-a29a-287f17f0b942
+LinkBehaviour_F640C9C7_BA1D_989C_41BA_3408A080B4F2.source = https://onceinmemory.360diamondoncrown.com/once/d551d6b2-bd9f-4edd-a29a-287f17f0b942
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_F647E9C7_BA1D_989C_41D2_F267E27F092B.text = 9821
+HotspotPanoramaOverlayTextImage_E880231D_BA1A_A9AC_41E1_E46520FAF795.text = 9821
+HotspotPanoramaOverlayTextImage_E87D724A_BA1E_AB94_41CC_500ABBF2F095.text = Book Now
+HotspotPanoramaOverlayTextImage_F74D66AC_BA1A_E8EC_41DE_277558699AC8.text = Book Now
+
 ## Media
 
 ### Audio
 audiores_A63BABF8_8A0A_9874_41DA_3453EF738F2C.mp3Url = media/audio_A8A50EE5_8A0D_B89C_41E2_C6F831E61C8B_en.mp3
 
 ### Audio Subtitles
+
+### Image
+imlevel_F9911C8C_BA15_B8AC_41E3_3EF48638DA85.url = media/panorama_69B57DCC_75A4_B29F_41C5_3C686F26ECE8_HS_cksag1ai_en.webp
+imlevel_F882EB8D_BA15_B8AC_41D7_94139CFEE0DF.url = media/panorama_69B57DCC_75A4_B29F_41C5_3C686F26ECE8_HS_q933mqoc_en.webp
+imlevel_FB92DA0F_BA15_BBAC_41DD_923AE1730348.url = media/panorama_6E80CE74_736C_918F_41AE_C3F0E55B13EF_HS_8uss7vsk_en.webp
+imlevel_F8814AFD_BA15_B86C_41D7_6F16C0E4EE32.url = media/panorama_6E80CE74_736C_918F_41AE_C3F0E55B13EF_HS_myjh9nx8_en.webp
 
 ### Title
 panorama_6E80CE74_736C_918F_41AE_C3F0E55B13EF.label = 9821
@@ -30,10 +52,10 @@ panorama_6FC2C343_73E4_9789_41D0_32F6E495D4A0.label = self-checkin area
 video_AB22808D_8A0A_E8AC_41E0_2EC39A49020B.label = สำเนาของ DJI_20250730142714_0005_D_1
 
 ### Video
-videolevel_EC1A0FBC_BA0A_F8EC_41BD_4BB867B7EB60.url = media/video_A156D861_8A0A_E794_41C6_5775BEBB1C9C_en.mp4
-videolevel_EC1A0FBC_BA0A_F8EC_41BD_4BB867B7EB60.posterURL = media/video_A156D861_8A0A_E794_41C6_5775BEBB1C9C_poster_en.jpg
-videolevel_EC1EBF96_BA0A_F8BC_41DD_FEA38EC8ED41.url = media/video_AB22808D_8A0A_E8AC_41E0_2EC39A49020B_en.mp4
-videolevel_EC1EBF96_BA0A_F8BC_41DD_FEA38EC8ED41.posterURL = media/video_AB22808D_8A0A_E8AC_41E0_2EC39A49020B_poster_en.jpg
+videolevel_F5FCDB92_BA16_78B4_41E1_5D78BAEFAAC4.url = media/video_A156D861_8A0A_E794_41C6_5775BEBB1C9C_en.mp4
+videolevel_F5FCDB92_BA16_78B4_41E1_5D78BAEFAAC4.posterURL = media/video_A156D861_8A0A_E794_41C6_5775BEBB1C9C_poster_en.jpg
+videolevel_F5FE6B54_BA16_79BC_41B8_FA369B340EAD.url = media/video_AB22808D_8A0A_E8AC_41E0_2EC39A49020B_en.mp4
+videolevel_F5FE6B54_BA16_79BC_41B8_FA369B340EAD.posterURL = media/video_AB22808D_8A0A_E8AC_41E0_2EC39A49020B_poster_en.jpg
 
 ### Video Subtitles
 
